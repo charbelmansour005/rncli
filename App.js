@@ -1,8 +1,8 @@
 import * as React from 'react';
-import {Home} from './pages/Home';
-import {Todos} from './pages/Todos';
-import {AddUser} from './pages/AddUser';
-import {GetUser} from './pages/GetUser';
+import {Home} from './screens/Home';
+import {Todos} from './screens/Todos';
+import {AddUser} from './screens/AddUser';
+import {GetUser} from './screens/GetUser';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
